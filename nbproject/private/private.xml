@@ -3,11 +3,14 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/Applications/XAMPP/htdocs/Mitanash/index.php</file>
-            <file>file:/Applications/XAMPP/htdocs/Mitanash/product_details.php</file>
-            <file>file:/Applications/XAMPP/htdocs/Mitanash/js/scriptsPersonal.js</file>
-            <file>file:/Applications/XAMPP/htdocs/Mitanash/css/zoom.css</file>
-            <file>file:/Applications/XAMPP/htdocs/Mitanash/js/jquery.zoom.js</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/Mitanash/js/price-range.js</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/Mitanash/css/main.css</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/Mitanash/product_details.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/Mitanash/css/font-awesome.min.css</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/Mitanash/css/zoom.css</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/Mitanash/index.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/Mitanash/css/prettyPhoto.css</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/Mitanash/js/scriptsPersonal.js</file>
         </group>
     </open-files>
 </project-private>

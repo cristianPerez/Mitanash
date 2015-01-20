@@ -49,10 +49,9 @@
                                     <li>
                                         <div class="social-icons pull-right">
                                             <ul class="nav navbar-nav">
-                                                <li><a href="#"><i id="fb" class="fa fa-facebook"></i></a></li>
-                                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                                <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                                                <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                                                <li><a href="https://www.facebook.com/Mitanash"><i id="fb" class="fa fa-facebook"></i></a></li>
+                                                <li><a href="http://instagram.com/mitanash"><i class="fa fa-instagram"></i></a></li>
+                                                <li><a href="https://plus.google.com/u/0/105935518828308372806/posts"><i class="fa fa-google-plus"></i></a></li>
                                             </ul>
                                         </div>
 
@@ -170,86 +169,8 @@
                     </ul>    
 
                     <h2 class="title text-center">Últimos Productos</h2>
-                    <div class="col-sm-3">
-                        <div class="product-image-wrapper">
-                            <div class="single-products">
-                                <div class="productinfo text-center">
-                                    <img src="images/products/large/p1.1.png" alt="" />
-                                    <h2>$65.000</h2>
-                                    <p>Reloj Madera corcho</p>
-                                    <a href="product_details.php?product_id=1&price=65.000&name=Relojes de madera corcho" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
-                                </div>
-                                <div class="product-overlay">
-                                    <div class="overlay-content">
-                                        <h2>$65.000</h2>
-                                        <p>Reloj Madera</p>
-                                        <a href="product_details.php?product_id=1&price=65.000&name=Relojes de madera corcho" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
-                                    </div>
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-                    <div class="col-sm-3">
-                        <div class="product-image-wrapper">
-                            <div class="single-products">
-                                <div class="productinfo text-center">
-                                    <img src="images/products/large/p2.1.png" alt="" />
-                                    <h2>$65.000</h2>
-                                    <p>Reloj Madera Nuez</p>
-                                    <a href="product_details.php?product_id=2&price=65.000&name=Relojes de madera nuez" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
-                                </div>
-                                <div class="product-overlay">
-                                    <div class="overlay-content">
-                                        <h2>$65.000</h2>
-                                        <p>Reloj Madera Nuez</p>
-                                        <a href="product_details.php?product_id=2&price=65.000&name=Relojes de madera nuez" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
-                                    </div>
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-                    <div class="col-sm-3">
-                        <div class="product-image-wrapper">
-                            <div class="single-products">
-                                <div class="productinfo text-center">
-                                    <img src="images/products/large/p3.1.png" alt="" />
-                                    <h2>$65.000</h2>
-                                    <p>Reloj Madera Miel</p>
-                                    <a href="product_details.php?product_id=3&price=65.000&name=Relojes de madera miel" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
-                                </div>
-                                <div class="product-overlay">
-                                    <div class="overlay-content">
-                                        <h2>$65.000</h2>
-                                        <p>Reloj Madera Miel</p>
-                                        <a href="product_details.php?product_id=3&price=65.000&name=Relojes de madera miel" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
-                                    </div>
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-                    <div class="col-sm-3">
-                        <div class="product-image-wrapper">
-                            <div class="single-products">
-                                <div class="productinfo text-center">
-                                    <img src="images/products/large/p4.1.png" alt="" />
-                                    <h2>$79.900</h2>
-                                    <p>Bolso Mango baul Negro</p>
-                                    <a href="product_details.php?product_id=4&price=80.000&name=Bolso Mango baul Negro" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
-                                </div>
-                                <div class="product-overlay">
-                                    <div class="overlay-content">
-                                        <h2>$79.900</h2>
-                                        <p>Bolso Mango baul Negro</p>
-                                        <a href="product_details.php?product_id=4&price=80.000&name=Bolso Mango baul Negro" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
-                                    </div>
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
+                    
+                    
                     <div class="col-sm-3">
                         <div class="product-image-wrapper">
                             <div class="single-products">
@@ -332,6 +253,87 @@
 
                         </div>
                     </div>
+                    <div class="col-sm-3">
+                        <div class="product-image-wrapper">
+                            <div class="single-products">
+                                <div class="productinfo text-center">
+                                    <img src="images/products/large/p1.1.png" alt="" />
+                                    <h2>$65.000</h2>
+                                    <p>Reloj Madera corcho</p>
+                                    <a href="product_details.php?product_id=1&price=65.000&name=Relojes de madera corcho" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
+                                </div>
+                                <div class="product-overlay">
+                                    <div class="overlay-content">
+                                        <h2>$65.000</h2>
+                                        <p>Reloj Madera</p>
+                                        <a href="product_details.php?product_id=1&price=65.000&name=Relojes de madera corcho" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <div class="product-image-wrapper">
+                            <div class="single-products">
+                                <div class="productinfo text-center">
+                                    <img src="images/products/large/p2.1.png" alt="" />
+                                    <h2>$65.000</h2>
+                                    <p>Reloj Madera Nuez</p>
+                                    <a href="product_details.php?product_id=2&price=65.000&name=Relojes de madera nuez" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
+                                </div>
+                                <div class="product-overlay">
+                                    <div class="overlay-content">
+                                        <h2>$65.000</h2>
+                                        <p>Reloj Madera Nuez</p>
+                                        <a href="product_details.php?product_id=2&price=65.000&name=Relojes de madera nuez" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <div class="product-image-wrapper">
+                            <div class="single-products">
+                                <div class="productinfo text-center">
+                                    <img src="images/products/large/p3.1.png" alt="" />
+                                    <h2>$65.000</h2>
+                                    <p>Reloj Madera Miel</p>
+                                    <a href="product_details.php?product_id=3&price=65.000&name=Relojes de madera miel" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
+                                </div>
+                                <div class="product-overlay">
+                                    <div class="overlay-content">
+                                        <h2>$65.000</h2>
+                                        <p>Reloj Madera Miel</p>
+                                        <a href="product_details.php?product_id=3&price=65.000&name=Relojes de madera miel" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <div class="product-image-wrapper">
+                            <div class="single-products">
+                                <div class="productinfo text-center">
+                                    <img src="images/products/large/p4.1.png" alt="" />
+                                    <h2>$79.900</h2>
+                                    <p>Bolso Mango baul Negro</p>
+                                    <a href="product_details.php?product_id=4&price=80.000&name=Bolso Mango baul Negro" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
+                                </div>
+                                <div class="product-overlay">
+                                    <div class="overlay-content">
+                                        <h2>$79.900</h2>
+                                        <p>Bolso Mango baul Negro</p>
+                                        <a href="product_details.php?product_id=4&price=80.000&name=Bolso Mango baul Negro" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                    
 
 
 

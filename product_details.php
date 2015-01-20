@@ -50,11 +50,10 @@
                                                     <li>
                                                         <div class="social-icons pull-right">
 							<ul class="nav navbar-nav">
-                                                            <li><a href="#"><i id="fb" class="fa fa-facebook"></i></a></li>
-                                                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                                            <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                                                            <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-							</ul>
+                                                <li><a href="https://www.facebook.com/Mitanash"><i id="fb" class="fa fa-facebook"></i></a></li>
+                                                <li><a href="http://instagram.com/mitanash"><i class="fa fa-instagram"></i></a></li>
+                                                <li><a href="https://plus.google.com/u/0/105935518828308372806/posts"><i class="fa fa-google-plus"></i></a></li>
+                                            </ul>
 						</div>
                                                         
                                                     </li>
@@ -130,8 +129,8 @@
                             <div class="col-sm-8">
                                 <div class="product-information"><!--/product-information-->
                                     <img src="images/product-details/new.jpg" class="newarrival" alt="" />
-                                    <p><?php echo $_GET["name"] ?></p>
-                                    <p>ID:<?php echo $_GET["product_id"] ?></p>
+                                    <p id=""><?php echo $_GET["name"] ?></p>
+                                    <p id="">ID:<?php echo $_GET["product_id"] ?></p>
                                     <p><img src="images/product-details/rating.png" alt="" /></p>
                                     <p><span>
                                             <span>$<?php echo $_GET["price"] ?></span>
@@ -158,21 +157,24 @@
                                         <p>Con mitanash solo debes dejar tus datos y nosotros nos comunicaremos contigo de inmediato, solo llena todos los campos requeridos del formulario y tu pedido sera enviado satisfactoriamente.</p>
                                         <p><b>LLena tu pedido</b></p>
 
-                                        <form action="#">
+                                        <form id="Formulario" action="javascript:pedido();">
                                             <span>
-                                                <input type="text" placeholder="Tu Nombre" required=""/>
-                                                <input type="email" placeholder="Tu Correo Electrónico" required=""/>
-                                                
+                                                <input id="productName" type="text"  value="<?php echo $_GET["name"] ?>" style="display: none;"/>
+                                                <input id="productId" type="text"  value="<?php echo $_GET["product_id"] ?>" style="display: none;" />
+                                                <input id="pedidoNombre" type="text" placeholder="Tu Nombre" required=""/>
+                                                <input id="pedidoEmail" type="email" placeholder="Tu Correo Electrónico" required=""/>
                                             </span>
                                             <br />
                                             <span>
-                                                <input type="tel" placeholder="Tu Celular" required=""/>
-                                                <input type="text" placeholder="Tu Dirección"/>
+                                                <input id="pedidoTel" type="tel" placeholder="Tu Celular" required=""/>
+                                                <input id="pedidoDir" type="text" placeholder="Tu Dirección"/>
                                             </span>
-                                            <textarea name="txt_Descripcion" placeholder="Pregunta acerca del producto o simplemente, solicitalo llenando en formulario."></textarea>
-                                            <b>Ranking: </b> <img src="images/product-details/rating.png" alt="" />
+                                            <textarea id="pedidoDudas" name="txt_Descripcion" placeholder="Pregunta acerca del producto o simplemente, solicitalo llenando en formulario."></textarea>
+                                           
+                                            <label id="textoResultante3"></label>
+                                          <button id="btnEnviarPedido" class="btn btn-fefault cart pull-right">Enviar</button>
                                             
-                                            <input type="submit" class="btn btn-fefault cart pull-right" value="Enviar">
+                                          <img id="cargandoPedido" src="images/others/loadPedido.gif" style="display: none;"/>
                                            
                                         </form>
                                     </div>
@@ -380,7 +382,8 @@
         <script src="js/jquery.prettyPhoto.js"></script>
         <script src="js/main.js"></script>
         <script src='http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js'></script>
-        <!--    <script src='js/jquery.zoom.js'></script>-->
+            <script src='js/jquery.zoom.js'></script>
         <script src="js/scriptsPersonal.js"></script>
+        <script src="js/scriptContact.js"></script>
     </body>
 </html>

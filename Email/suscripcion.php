@@ -17,11 +17,11 @@ try {
 }
 
 $SMTPservidor = "mail.mitanash.com";
-$SMTPusuario = "info@mitanash.com";
+$SMTPusuario = "contacto@mitanash.com";
 $SMTPclave = "Lauriz1053803970";
 $SMTPpuerto = "25";
 
-$destinatario = "laurizduque@gmail.com";
+$destinatario = "info@mitanash.com";
 $asunto = "Nuevo suscriptor de Mitanash";
 $body = "<html lang='es'>
                     <HEAD>
@@ -40,7 +40,7 @@ $body = "<html lang='es'>
 
 
 $remitente = "Mitanash tienda de accesorios";
-$remitenteemail = "info@mitanash.com";
+$remitenteemail = "contacto@mitanash.com";
 $headers = "MIME-Version: 1.0\r\n";
 $headers .= "Content-type: text/html; charset=iso-8859-1\r\n";
 $smtp = new eSmtp("$SMTPservidor", $SMTPpuerto);
@@ -78,7 +78,7 @@ $body2 = "<html lang='es'>
 
 
 $remitente2 = "Mitanash tienda de accesorios";
-$remitenteemail2 = "info@mitanash.com";
+$remitenteemail2 = "contacto@mitanash.com";
 $headers2 = "MIME-Version: 1.0\r\n";
 $headers2 .= "Content-type: text/html; charset=iso-8859-1\r\n";
 

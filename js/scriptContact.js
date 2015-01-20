@@ -82,3 +82,47 @@ function suscripcion() {
 
 }
 
+function pedido() {
+    if($('#pedidoNombre').val()!=="" && $('#pedidoEmail').val()!=="" && $('#pedidoTel').val()!=="" && $('#pedidoDir').val()!==""&& $('#pedidoDudas').val()!=="")
+    {     
+      var l = $('#cargandoPedido');
+        var btn = $('#btnEnviarPedido');
+        l.show();
+        btn.attr("disabled", "true");
+        $.ajax({
+            dataType: "json",
+            data: {pedidoNombre:$('#pedidoNombre').val(),pedidoEmail:$('#pedidoEmail').val(),pedidoTel:$('#pedidoTel').val(),pedidoDir:$('#pedidoDir').val(),pedidoDudas:$('#pedidoDudas').val(),productId:$('#productId').val(),productName:$('#productName').val()}    
+            ,
+            type: 'GET',
+            url: "http://localhost/Mitanash/Email/pedidos.php",
+            success: function(data){
+            
+                if (data.respuesta==='si' && data.respuesta1==='si')
+
+                {
+                    $('#pedidoNombre').val("");
+                    $('#pedidoEmail').val("");
+                    $('#pedidoTel').val("");
+                    $('#pedidoDir').val("");
+                    $('#pedidoDudas').val("");
+                    btn.attr("disabled", "false");
+                    l.hide('slow');
+                    $('#textoResultante3').text('Pedido Exitoso')();  
+                }
+                else{
+                    window.alert("no se pudo realizar el pedido intentalo mas tarde");
+                    window.location.reload();
+                }
+
+            },
+            error: function(error) {
+                window.alert("ocurrio un problema");
+            }
+        });    
+        }
+        else{
+            window.alert("Complete los campos requeridos");
+        }
+
+}
+

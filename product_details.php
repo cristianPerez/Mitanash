@@ -25,6 +25,8 @@
 
     <body>
         <header id="header"><!--header-->
+            <!--/header_top-->
+
             <div class="header-middle"><!--header-middle-->
                 <div class="container">
                     <div class="row">
@@ -34,33 +36,33 @@
                             </div>
                         </div>
                         <div class="col-sm-8" style="margin-top: 10px;">
-                                            <div class="mainmenu pull-right">
-                                                <ul class="nav navbar-nav collapse navbar-collapse" style="margin-top: 6px;">
-                                                    <li><a href="index.html" class="active">Inicio</a></li>
-                                                    <li class="dropdown"><a href="product_list.php">Productos<i class="fa fa-angle-down"></i></a>
-                                                        <ul role="menu" class="sub-menu">
-                                                            <li><a href="product_list.php">Gafas</a></li>
-                                                            <li><a href="product_list.php">Relojes</a></li> 
-                                                            <li><a href="product_list.php">Bolsos</a></li> 
-                                                            <li><a href="product_list.php">Tulas</a></li>
-                                                        </ul>
-                                                    </li> 
-                                                    <li><a href="About.php">Quiénes Somos</a></li>
-                                                    <li><a href="contact.php">Contáctenos</a></li>
-                                                    <li>
-                                                        <div class="social-icons pull-right">
-							<ul class="nav navbar-nav">
+                            <div class="mainmenu pull-right">
+                                <ul class="nav navbar-nav collapse navbar-collapse" style="margin-top: 6px;">
+                                    <li><a href="index.php" class="active">Inicio</a></li>
+                                    <li class="dropdown"><a href="product_list.php">Productos<i class="fa fa-angle-down"></i></a>
+                                        <ul role="menu" class="sub-menu">
+                                            <li><a href="product_list.php">Gafas</a></li>
+                                            <li><a href="product_list.php">Relojes</a></li> 
+                                            <li><a href="product_list.php">Bolsos</a></li> 
+                                            <li><a href="product_list.php">Tulas</a></li>
+                                        </ul>
+                                    </li> 
+                                    <li><a href="About.php">Quiénes Somos</a></li>
+                                    <li><a href="contact.php">Contáctenos</a></li>
+                                    <li>
+                                        <div class="social-icons pull-right">
+                                            <ul class="nav navbar-nav">
                                                 <li><a href="https://www.facebook.com/Mitanash"><i id="fb" class="fa fa-facebook"></i></a></li>
                                                 <li><a href="http://instagram.com/mitanash"><i class="fa fa-instagram"></i></a></li>
                                                 <li><a href="https://plus.google.com/u/0/105935518828308372806/posts"><i class="fa fa-google-plus"></i></a></li>
                                             </ul>
-						</div>
-                                                        
-                                                    </li>
-                                                </ul>
-                                                
-                                            </div>
-					</div>
+                                        </div>
+
+                                    </li>
+                                </ul>
+
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div><!--/header-middle-->
@@ -154,7 +156,7 @@
                                             <li><a href=""><i class="fa fa-clock-o"></i><?php echo date("h:i:sa");?></a></li>
                                             <li><a href=""><i class="fa fa-calendar-o"></i><?php echo date("Y/m/d");?></a></li>
                                         </ul>
-                                        <p>Con mitanash solo debes dejar tus datos y nosotros nos comunicaremos contigo de inmediato, solo llena todos los campos requeridos del formulario y tu pedido sera enviado satisfactoriamente.</p>
+                                        <p>Con Mitanash solo debes dejar tus datos y nosotros nos comunicaremos contigo de inmediato, solo llena todos los campos requeridos del formulario y tu pedido sera enviado satisfactoriamente.</p>
                                         <p><b>LLena tu pedido</b></p>
 
                                         <form id="Formulario" action="javascript:pedido();">

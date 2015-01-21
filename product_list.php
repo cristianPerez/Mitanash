@@ -29,13 +29,13 @@
                     <div class="row">
                         <div class="col-sm-4">
                             <div class="logo pull-left">
-                                <a href="index.html"><img src="images/others/logo-blanco.png" alt="" /></a>
+                                <a href="index.php"><img src="images/others/logo-blanco.png" alt="" /></a>
                             </div>
                         </div>
                         <div class="col-sm-8" style="margin-top: 10px;">
                             <div class="mainmenu pull-right">
                                 <ul class="nav navbar-nav collapse navbar-collapse" style="margin-top: 6px;">
-                                    <li><a href="index.html" class="active">Inicio</a></li>
+                                    <li><a href="index.php" class="active">Inicio</a></li>
                                     <li class="dropdown"><a href="product_list.php">Productos<i class="fa fa-angle-down"></i></a>
                                         <ul role="menu" class="sub-menu">
                                             <li><a href="product_list.php">Gafas</a></li>
@@ -101,6 +101,171 @@
                             </ul>    
 
                             <h2 class="title text-center">Últimos Productos</h2>
+
+
+                            <div class="col-sm-3">
+                                <div class="product-image-wrapper">
+                                    <div class="single-products">
+                                        <div class="productinfo text-center">
+                                            <img src="images/products/large/p12.1.png" alt="" />
+                                            <h2>$70.000</h2>
+                                            <p>Gafas Redondas Oracle</p>
+                                            <a href="product_details.php?product_id=12&price=70.000&name=Gafas Redondas Oracle - colores azul y verde" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
+                                        </div>
+                                        <div class="product-overlay">
+                                            <div class="overlay-content">
+                                                <h2>$70.000</h2>
+                                                <p>Gafas Redondas Oracle</p>
+                                                <a href="product_details.php?product_id=12&price=70.000&name=Gafas Redondas Oracle - colores azul y verde" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-sm-3">
+                                <div class="product-image-wrapper">
+                                    <div class="single-products">
+                                        <div class="productinfo text-center">
+                                            <img src="images/products/large/p11.1.png" alt="" />
+                                            <h2>$60.000</h2>
+                                            <p>Gafas retro- color floral</p>
+                                            <a href="product_details.php?product_id=11&price=60.000&name=Gafas retro- color floral" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
+                                        </div>
+                                        <div class="product-overlay">
+                                            <div class="overlay-content">
+                                                <h2>$60.000</h2>
+                                                <p>Gafas retro- color floral</p>
+                                                <a href="product_details.php?product_id=11&price=60.000&name=Gafas retro- color floral" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-sm-3">
+                                <div class="product-image-wrapper">
+                                    <div class="single-products">
+                                        <div class="productinfo text-center">
+                                            <img src="images/products/large/p9.1.png" alt="" />
+                                            <h2>$120.000</h2>
+                                            <p>Gafas de sol asteroid - color azul</p>
+                                            <a href="product_details.php?product_id=9&price=120.000&name=Gafas de sol asteroid - con protector de luz lateral" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
+                                        </div>
+                                        <div class="product-overlay">
+                                            <div class="overlay-content">
+                                                <h2>$120.000</h2>
+                                                <p>Gafas de sol asteroid - color azul</p>
+                                                <a href="product_details.php?product_id=9&price=120.000&name=Gafas de sol asteroid - con protector de luz lateral" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-sm-3">
+                                <div class="product-image-wrapper">
+                                    <div class="single-products">
+                                        <div class="productinfo text-center">
+                                            <img src="images/products/large/p10.1.png" alt="" />
+                                            <h2>$120.000</h2>
+                                            <p>Gafas de sol asteroid - color cafe</p>
+                                            <a href="product_details.php?product_id=10&price=120.000&name=Gafas de sol asteroid - con protector de luz lateral" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
+                                        </div>
+                                        <div class="product-overlay">
+                                            <div class="overlay-content">
+                                                <h2>$120.000</h2>
+                                                <p>Gafas de sol asteroid - color cafe</p>
+                                                <a href="product_details.php?product_id=10&price=120.000&name=Gafas de sol asteroid - con protector de luz lateral" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-sm-3">
+                                <div class="product-image-wrapper">
+                                    <div class="single-products">
+                                        <div class="productinfo text-center">
+                                            <img src="images/products/large/p5.1.png" alt="" />
+                                            <h2>$35.000</h2>
+                                            <p>Reloj Geneva verde menta</p>
+                                            <a href="product_details.php?product_id=5&price=35.000&name=Reloj Geneva verde menta" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
+                                        </div>
+                                        <div class="product-overlay">
+                                            <div class="overlay-content">
+                                                <h2>$35.000</h2>
+                                                <p>Reloj Geneva verde menta</p>
+                                                <a href="product_details.php?product_id=5&price=35.000&name=Reloj Geneva verde menta" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+
+                            <div class="col-sm-3">
+                                <div class="product-image-wrapper">
+                                    <div class="single-products">
+                                        <div class="productinfo text-center">
+                                            <img src="images/products/large/p6.1.png" alt="" />
+                                            <h2>$75.000</h2>
+                                            <p>Reloj Dorado Calvin Klain</p>
+                                            <a href="product_details.php?product_id=6&price=75.000&name=Reloj Dorado Calvin Klain" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
+                                        </div>
+                                        <div class="product-overlay">
+                                            <div class="overlay-content">
+                                                <h2>$75.000</h2>
+                                                <p>Reloj Dorado Calvin Klain</p>
+                                                <a href="product_details.php?product_id=6&price=75.000&name=Reloj Dorado Calvin Klain" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+
+                            <div class="col-sm-3">
+                                <div class="product-image-wrapper">
+                                    <div class="single-products">
+                                        <div class="productinfo text-center">
+                                            <img src="images/products/large/p7.1.png" alt="" />
+                                            <h2>$70.000</h2>
+                                            <p>Mochila casual tejida color negro</p>
+                                            <a href="product_details.php?product_id=7&price=70.000&name=Mochila casual tejida color negro" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
+                                        </div>
+                                        <div class="product-overlay">
+                                            <div class="overlay-content">
+                                                <h2>$70.000</h2>
+                                                <p>Mochila casual tejida color negro</p>
+                                                <a href="product_details.php?product_id=7&price=70.000&name=Mochila casual tejida color negro" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+
+                            <div class="col-sm-3">
+                                <div class="product-image-wrapper">
+                                    <div class="single-products">
+                                        <div class="productinfo text-center">
+                                            <img src="images/products/large/p8.1.png" alt="" />
+                                            <h2>$70.000</h2>
+                                            <p>Mochila casual estampada color blanco</p>
+                                            <a href="product_details.php?product_id=8&price=70.000&name=Mochila casual estampada color blanco" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
+                                        </div>
+                                        <div class="product-overlay">
+                                            <div class="overlay-content">
+                                                <h2>$70.000</h2>
+                                                <p>Mochila casual estampada color blanco</p>
+                                                <a href="product_details.php?product_id=8&price=70.000&name=Mochila casual estampada color blanco" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
                             <div class="col-sm-3">
                                 <div class="product-image-wrapper">
                                     <div class="single-products">
@@ -168,94 +333,13 @@
                                             <img src="images/products/large/p4.1.png" alt="" />
                                             <h2>$79.900</h2>
                                             <p>Bolso Mango baul Negro</p>
-                                            <a href="product_details.php?product_id=4&price=80.000&name=Bolso Mango baul Negro" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
+                                            <a href="product_details.php?product_id=4&price=79.900&name=Bolso Mango baul Negro" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
                                         </div>
                                         <div class="product-overlay">
                                             <div class="overlay-content">
                                                 <h2>$79.900</h2>
                                                 <p>Bolso Mango baul Negro</p>
-                                                <a href="product_details.php?product_id=4&price=80.000&name=Bolso Mango baul Negro" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                </div>
-                            </div>
-                            <div class="col-sm-3">
-                                <div class="product-image-wrapper">
-                                    <div class="single-products">
-                                        <div class="productinfo text-center">
-                                            <img src="images/products/large/p5.1.png" alt="" />
-                                            <h2>$35.000</h2>
-                                            <p>Reloj Geneva verde menta</p>
-                                            <a href="product_details.php?product_id=5&price=35.000&name=Reloj Geneva verde menta" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
-                                        </div>
-                                        <div class="product-overlay">
-                                            <div class="overlay-content">
-                                                <h2>$35.000</h2>
-                                                <p>Reloj Geneva verde menta</p>
-                                                <a href="product_details.php?product_id=5&price=35.000&name=Reloj Geneva verde menta" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                </div>
-                            </div>
-                            <div class="col-sm-3">
-                                <div class="product-image-wrapper">
-                                    <div class="single-products">
-                                        <div class="productinfo text-center">
-                                            <img src="images/products/large/p6.1.png" alt="" />
-                                            <h2>$75.000</h2>
-                                            <p>Reloj Dorado Calvin Klain</p>
-                                            <a href="product_details.php?product_id=6&price=75.000&name=Reloj Dorado Calvin Klain" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
-                                        </div>
-                                        <div class="product-overlay">
-                                            <div class="overlay-content">
-                                                <h2>$75.000</h2>
-                                                <p>Reloj Dorado Calvin Klain</p>
-                                                <a href="product_details.php?product_id=6&price=75.000&name=Reloj Dorado Calvin Klain" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                </div>
-                            </div>
-                            <div class="col-sm-3">
-                                <div class="product-image-wrapper">
-                                    <div class="single-products">
-                                        <div class="productinfo text-center">
-                                            <img src="images/products/large/p7.1.png" alt="" />
-                                            <h2>$70.000</h2>
-                                            <p>Mochila casual tejida color negro</p>
-                                            <a href="product_details.php?product_id=7&price=70.000&name=Mochila casual tejida color negro" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
-                                        </div>
-                                        <div class="product-overlay">
-                                            <div class="overlay-content">
-                                                <h2>$70.000</h2>
-                                                <p>Mochila casual tejida color negro</p>
-                                                <a href="product_details.php?product_id=7&price=70.000&name=Mochila casual tejida color negro" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                </div>
-                            </div>
-
-                            <div class="col-sm-3">
-                                <div class="product-image-wrapper">
-                                    <div class="single-products">
-                                        <div class="productinfo text-center">
-                                            <img src="images/products/large/p8.1.png" alt="" />
-                                            <h2>$70.000</h2>
-                                            <p>Mochila casual estampada color blanco</p>
-                                            <a href="product_details.php?product_id=8&price=70.000&name=Mochila casual estampada color blanco" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
-                                        </div>
-                                        <div class="product-overlay">
-                                            <div class="overlay-content">
-                                                <h2>$70.000</h2>
-                                                <p>Mochila casual estampada color blanco</p>
-                                                <a href="product_details.php?product_id=8&price=70.000&name=Mochila casual estampada color blanco" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
+                                                <a href="product_details.php?product_id=4&price=79.900&name=Bolso Mango baul Negro" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
                                             </div>
                                         </div>
                                     </div>
@@ -266,102 +350,102 @@
 
 
                         </div><!--features_items-->
-<!--                        <div class="recommended_items">recommended_items
-                            <h2 class="title text-center">Productos recomendados</h2>
-
-                            <div id="recommended-item-carousel" class="carousel slide" data-ride="carousel">
-                                <div class="carousel-inner">
-                                    <div class="item active">	
-                                        <div class="col-sm-4">
-                                            <div class="product-image-wrapper">
-                                                <div class="single-products">
-                                                    <div class="productinfo text-center">
-                                                        <img src="images/home/recommend1.jpg" alt="" />
-                                                        <h2>$56</h2>
-                                                        <p>Easy Polo Black Edition</p>
-                                                        <a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
+                        <!--                        <div class="recommended_items">recommended_items
+                                                    <h2 class="title text-center">Productos recomendados</h2>
+                        
+                                                    <div id="recommended-item-carousel" class="carousel slide" data-ride="carousel">
+                                                        <div class="carousel-inner">
+                                                            <div class="item active">	
+                                                                <div class="col-sm-4">
+                                                                    <div class="product-image-wrapper">
+                                                                        <div class="single-products">
+                                                                            <div class="productinfo text-center">
+                                                                                <img src="images/home/recommend1.jpg" alt="" />
+                                                                                <h2>$56</h2>
+                                                                                <p>Easy Polo Black Edition</p>
+                                                                                <a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
+                                                                            </div>
+                        
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="col-sm-4">
+                                                                    <div class="product-image-wrapper">
+                                                                        <div class="single-products">
+                                                                            <div class="productinfo text-center">
+                                                                                <img src="images/home/recommend2.jpg" alt="" />
+                                                                                <h2>$56</h2>
+                                                                                <p>Easy Polo Black Edition</p>
+                                                                                <a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
+                                                                            </div>
+                        
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="col-sm-4">
+                                                                    <div class="product-image-wrapper">
+                                                                        <div class="single-products">
+                                                                            <div class="productinfo text-center">
+                                                                                <img src="images/home/recommend3.jpg" alt="" />
+                                                                                <h2>$56</h2>
+                                                                                <p>Easy Polo Black Edition</p>
+                                                                                <a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
+                                                                            </div>
+                        
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="item">	
+                                                                <div class="col-sm-4">
+                                                                    <div class="product-image-wrapper">
+                                                                        <div class="single-products">
+                                                                            <div class="productinfo text-center">
+                                                                                <img src="images/home/recommend1.jpg" alt="" />
+                                                                                <h2>$56</h2>
+                                                                                <p>Easy Polo Black Edition</p>
+                                                                                <a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
+                                                                            </div>
+                        
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="col-sm-4">
+                                                                    <div class="product-image-wrapper">
+                                                                        <div class="single-products">
+                                                                            <div class="productinfo text-center">
+                                                                                <img src="images/home/recommend2.jpg" alt="" />
+                                                                                <h2>$56</h2>
+                                                                                <p>Easy Polo Black Edition</p>
+                                                                                <a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
+                                                                            </div>
+                        
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="col-sm-4">
+                                                                    <div class="product-image-wrapper">
+                                                                        <div class="single-products">
+                                                                            <div class="productinfo text-center">
+                                                                                <img src="images/home/recommend3.jpg" alt="" />
+                                                                                <h2>$56</h2>
+                                                                                <p>Easy Polo Black Edition</p>
+                                                                                <a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
+                                                                            </div>
+                        
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <a class="left recommended-item-control" href="#recommended-item-carousel" data-slide="prev">
+                                                            <i class="fa fa-angle-left"></i>
+                                                        </a>
+                                                        <a class="right recommended-item-control" href="#recommended-item-carousel" data-slide="next">
+                                                            <i class="fa fa-angle-right"></i>
+                                                        </a>			
                                                     </div>
-
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-sm-4">
-                                            <div class="product-image-wrapper">
-                                                <div class="single-products">
-                                                    <div class="productinfo text-center">
-                                                        <img src="images/home/recommend2.jpg" alt="" />
-                                                        <h2>$56</h2>
-                                                        <p>Easy Polo Black Edition</p>
-                                                        <a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
-                                                    </div>
-
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-sm-4">
-                                            <div class="product-image-wrapper">
-                                                <div class="single-products">
-                                                    <div class="productinfo text-center">
-                                                        <img src="images/home/recommend3.jpg" alt="" />
-                                                        <h2>$56</h2>
-                                                        <p>Easy Polo Black Edition</p>
-                                                        <a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
-                                                    </div>
-
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="item">	
-                                        <div class="col-sm-4">
-                                            <div class="product-image-wrapper">
-                                                <div class="single-products">
-                                                    <div class="productinfo text-center">
-                                                        <img src="images/home/recommend1.jpg" alt="" />
-                                                        <h2>$56</h2>
-                                                        <p>Easy Polo Black Edition</p>
-                                                        <a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
-                                                    </div>
-
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-sm-4">
-                                            <div class="product-image-wrapper">
-                                                <div class="single-products">
-                                                    <div class="productinfo text-center">
-                                                        <img src="images/home/recommend2.jpg" alt="" />
-                                                        <h2>$56</h2>
-                                                        <p>Easy Polo Black Edition</p>
-                                                        <a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
-                                                    </div>
-
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-sm-4">
-                                            <div class="product-image-wrapper">
-                                                <div class="single-products">
-                                                    <div class="productinfo text-center">
-                                                        <img src="images/home/recommend3.jpg" alt="" />
-                                                        <h2>$56</h2>
-                                                        <p>Easy Polo Black Edition</p>
-                                                        <a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
-                                                    </div>
-
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <a class="left recommended-item-control" href="#recommended-item-carousel" data-slide="prev">
-                                    <i class="fa fa-angle-left"></i>
-                                </a>
-                                <a class="right recommended-item-control" href="#recommended-item-carousel" data-slide="next">
-                                    <i class="fa fa-angle-right"></i>
-                                </a>			
-                            </div>
-                        </div>/recommended_items-->
+                                                </div>/recommended_items-->
 
                     </div>
                 </div>

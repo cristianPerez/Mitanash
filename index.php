@@ -170,6 +170,85 @@
 
                     <h2 class="title text-center">Últimos Productos</h2>
                     
+                    <div class="col-sm-3">
+                        <div class="product-image-wrapper">
+                            <div class="single-products">
+                                <div class="productinfo text-center">
+                                    <img src="images/products/large/p12.1.png" alt="" />
+                                    <h2>$70.000</h2>
+                                    <p>Gafas Redondas Oracle</p>
+                                    <a href="product_details.php?product_id=12&price=70.000&name=Gafas Redondas Oracle - colores azul y verde" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
+                                </div>
+                                <div class="product-overlay">
+                                    <div class="overlay-content">
+                                        <h2>$70.000</h2>
+                                    <p>Gafas Redondas Oracle</p>
+                                    <a href="product_details.php?product_id=12&price=70.000&name=Gafas Redondas Oracle - colores azul y verde" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-sm-3">
+                        <div class="product-image-wrapper">
+                            <div class="single-products">
+                                <div class="productinfo text-center">
+                                    <img src="images/products/large/p11.1.png" alt="" />
+                                    <h2>$60.000</h2>
+                                    <p>Gafas retro- color floral</p>
+                                    <a href="product_details.php?product_id=11&price=60.000&name=Gafas retro- color floral" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
+                                </div>
+                                <div class="product-overlay">
+                                    <div class="overlay-content">
+                                        <h2>$60.000</h2>
+                                    <p>Gafas retro- color floral</p>
+                                    <a href="product_details.php?product_id=11&price=60.000&name=Gafas retro- color floral" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-sm-3">
+                        <div class="product-image-wrapper">
+                            <div class="single-products">
+                                <div class="productinfo text-center">
+                                    <img src="images/products/large/p9.1.png" alt="" />
+                                    <h2>$120.000</h2>
+                                    <p>Gafas de sol asteroid - color azul</p>
+                                    <a href="product_details.php?product_id=9&price=120.000&name=Gafas de sol asteroid - con protector de luz lateral" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
+                                </div>
+                                <div class="product-overlay">
+                                    <div class="overlay-content">
+                                        <h2>$120.000</h2>
+                                        <p>Gafas de sol asteroid - color azul</p>
+                                        <a href="product_details.php?product_id=9&price=120.000&name=Gafas de sol asteroid - con protector de luz lateral" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-sm-3">
+                        <div class="product-image-wrapper">
+                            <div class="single-products">
+                                <div class="productinfo text-center">
+                                    <img src="images/products/large/p10.1.png" alt="" />
+                                    <h2>$120.000</h2>
+                                    <p>Gafas de sol asteroid - color cafe</p>
+                                    <a href="product_details.php?product_id=10&price=120.000&name=Gafas de sol asteroid - con protector de luz lateral" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
+                                </div>
+                                <div class="product-overlay">
+                                    <div class="overlay-content">
+                                        <h2>$120.000</h2>
+                                        <p>Gafas de sol asteroid - color cafe</p>
+                                        <a href="product_details.php?product_id=10&price=120.000&name=Gafas de sol asteroid - con protector de luz lateral" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                     
                     <div class="col-sm-3">
                         <div class="product-image-wrapper">
@@ -191,6 +270,7 @@
 
                         </div>
                     </div>
+                    
                     <div class="col-sm-3">
                         <div class="product-image-wrapper">
                             <div class="single-products">
@@ -320,13 +400,13 @@
                                     <img src="images/products/large/p4.1.png" alt="" />
                                     <h2>$79.900</h2>
                                     <p>Bolso Mango baul Negro</p>
-                                    <a href="product_details.php?product_id=4&price=80.000&name=Bolso Mango baul Negro" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
+                                    <a href="product_details.php?product_id=4&price=79.900&name=Bolso Mango baul Negro" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
                                 </div>
                                 <div class="product-overlay">
                                     <div class="overlay-content">
                                         <h2>$79.900</h2>
                                         <p>Bolso Mango baul Negro</p>
-                                        <a href="product_details.php?product_id=4&price=80.000&name=Bolso Mango baul Negro" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
+                                        <a href="product_details.php?product_id=4&price=79.900&name=Bolso Mango baul Negro" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
                                     </div>
                                 </div>
                             </div>

@@ -102,7 +102,25 @@
 
                             <h2 class="title text-center">Últimos Productos</h2>
 
-
+<div class="col-sm-3">
+                        <div class="product-image-wrapper">
+                            <div class="single-products">
+                                <div class="productinfo text-center">
+                                    <img src="images/products/large/p14.1.png" alt="" />
+                                    <h2>$35.000</h2>
+                                    <p>Reloj love blanco</p>
+                                    <a href="product_details.php?product_id=14&price=35.000&name=Reloj love blanco" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
+                                </div>
+                                <div class="product-overlay">
+                                    <div class="overlay-content">
+                                        <h2>$35.000</h2>
+                                    <p>Reloj love blanco</p>
+                                    <a href="product_details.php?product_id=14&price=35.000&name=Reloj love blanco" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                             <div class="col-sm-3">
                                 <div class="product-image-wrapper">
                                     <div class="single-products">

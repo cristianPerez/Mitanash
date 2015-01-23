@@ -115,6 +115,26 @@
                     </ul>    
 
                     <h2 class="title text-center">Últimos Productos</h2>
+                    
+                    <div id="sunglasses" class="col-sm-3">
+                        <div class="product-image-wrapper">
+                            <div class="single-products">
+                                <div class="productinfo text-center">
+                                    <img src="images/products/large/p15.1.png" alt="" />
+                                    <h2>$60.000</h2>
+                                    <p>Gafas retro - color negro</p>
+                                    <a href="product_details.php?product_id=15&price=60.000&name=Gafas retro - color negro" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
+                                </div>
+                                <div class="product-overlay">
+                                    <div class="overlay-content">
+                                        <h2>$60.000</h2>
+                                    <p>Gafas retro - color negro</p>
+                                    <a href="product_details.php?product_id=15&price=60.000&name=Gafas retro - color negro" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
 <div class="col-sm-3">
                         <div class="product-image-wrapper">
                             <div class="single-products">
@@ -179,15 +199,15 @@
                             <div class="single-products">
                                 <div class="productinfo text-center">
                                     <img src="images/products/large/p9.1.png" alt="" />
-                                    <h2>$120.000</h2>
+                                    <h2>$80.000</h2>
                                     <p>Gafas de sol asteroid - color azul</p>
-                                    <a href="product_details.php?product_id=9&price=120.000&name=Gafas de sol asteroid - con protector de luz lateral" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
+                                    <a href="product_details.php?product_id=9&price=80.000&name=Gafas de sol asteroid - con protector de luz lateral" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
                                 </div>
                                 <div class="product-overlay">
                                     <div class="overlay-content">
-                                        <h2>$120.000</h2>
+                                        <h2>$80.000</h2>
                                         <p>Gafas de sol asteroid - color azul</p>
-                                        <a href="product_details.php?product_id=9&price=120.000&name=Gafas de sol asteroid - con protector de luz lateral" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
+                                        <a href="product_details.php?product_id=9&price=80.000&name=Gafas de sol asteroid - con protector de luz lateral" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
                                     </div>
                                 </div>
                             </div>
@@ -199,15 +219,15 @@
                             <div class="single-products">
                                 <div class="productinfo text-center">
                                     <img src="images/products/large/p10.1.png" alt="" />
-                                    <h2>$120.000</h2>
+                                    <h2>$80.000</h2>
                                     <p>Gafas de sol asteroid - color cafe</p>
-                                    <a href="product_details.php?product_id=10&price=120.000&name=Gafas de sol asteroid - con protector de luz lateral" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
+                                    <a href="product_details.php?product_id=10&price=80.000&name=Gafas de sol asteroid - con protector de luz lateral" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
                                 </div>
                                 <div class="product-overlay">
                                     <div class="overlay-content">
-                                        <h2>$120.000</h2>
+                                        <h2>$80.000</h2>
                                         <p>Gafas de sol asteroid - color cafe</p>
-                                        <a href="product_details.php?product_id=10&price=120.000&name=Gafas de sol asteroid - con protector de luz lateral" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
+                                        <a href="product_details.php?product_id=10&price=80.000&name=Gafas de sol asteroid - con protector de luz lateral" class="btn btn-default add-to-cart"><i class="fa fa-eye"></i>Ver Detalles</a>
                                     </div>
                                 </div>
                             </div>
